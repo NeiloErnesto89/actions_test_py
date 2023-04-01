@@ -1,2 +1,10 @@
 2023-04-01 22:46:42,088 - __main__ - INFO - Token value: Token not available!
 2023-04-01 22:46:42,867 - __main__ - INFO - Weather in Berlin: 3.76
+2023-04-01 23:05:01,352 - __main__ - INFO - Token value: 
+2023-04-01 23:05:01,781 - __main__ - INFO - Weather in Berlin: 8.61
+2023-04-01 23:07:38,718 - __main__ - INFO - Token value: 
+2023-04-01 23:07:39,100 - __main__ - INFO - Weather temp in Dublin: 8.61
+2023-04-01 23:07:39,116 - __main__ - INFO - Weather description in Dublin: 8.61
+2023-04-01 23:08:06,451 - __main__ - INFO - Token value: 
+2023-04-01 23:08:06,827 - __main__ - INFO - Weather temp in Dublin: 8.61
+2023-04-01 23:08:06,827 - __main__ - INFO - Weather description in Dublin: broken clouds
