@@ -1,6 +1,7 @@
 import logging
 import logging.handlers
 import os
+# import time
 
 import requests
 
@@ -38,3 +39,5 @@ if __name__ == "__main__":
         logger.info(f'Weather temp in Dublin: {temperature}')
         description = data["weather"]["description"]
         logger.info(f'Weather description in Dublin: {description}')
+        # current = time.time
+        print(f'Weather currently in Dublin is {description} and the temp in Dublin is {temperature} degrees')
