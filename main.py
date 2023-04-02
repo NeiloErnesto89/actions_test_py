@@ -4,6 +4,8 @@ import os
 
 import requests
 
+# steps via  https://www.youtube.com/watch?v=PaGp7Vi5gfM&t=9s
+
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 logger_file_handler = logging.handlers.RotatingFileHandler(
