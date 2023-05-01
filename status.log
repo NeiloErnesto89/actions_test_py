@@ -53,3 +53,6 @@
 2023-04-04 05:12:49,436 - __main__ - INFO - Token value: 
 2023-04-04 05:12:49,752 - __main__ - INFO - Weather temp in Dublin: 7.2
 2023-04-04 05:12:49,752 - __main__ - INFO - Weather description in Dublin: moderate rain
+2023-05-01 00:59:47,343 - __main__ - INFO - Token value: 
+2023-05-01 00:59:47,533 - __main__ - INFO - Weather temp in Dublin: 11.44
+2023-05-01 00:59:47,533 - __main__ - INFO - Weather description in Dublin: broken clouds
