@@ -68,3 +68,6 @@
 2023-09-01 00:51:51,898 - __main__ - INFO - Token value: 
 2023-09-01 00:51:52,208 - __main__ - INFO - Weather temp in Dublin: 14.95
 2023-09-01 00:51:52,209 - __main__ - INFO - Weather description in Dublin: light intensity drizzle
+2023-10-01 00:55:59,504 - __main__ - INFO - Token value: 
+2023-10-01 00:55:59,663 - __main__ - INFO - Weather temp in Dublin: 17.49
+2023-10-01 00:55:59,663 - __main__ - INFO - Weather description in Dublin: light rain
