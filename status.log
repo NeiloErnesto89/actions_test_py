@@ -113,3 +113,6 @@
 2024-12-01 01:22:12,678 - __main__ - INFO - Token value: 
 2024-12-01 01:22:12,942 - __main__ - INFO - Weather temp in Dublin: 13.68
 2024-12-01 01:22:12,942 - __main__ - INFO - Weather description in Dublin: light rain
+2025-01-01 01:12:01,584 - __main__ - INFO - Token value: 
+2025-01-01 01:12:01,712 - __main__ - INFO - Weather temp in Dublin: 7.62
+2025-01-01 01:12:01,712 - __main__ - INFO - Weather description in Dublin: light rain
