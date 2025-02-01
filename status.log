@@ -116,3 +116,6 @@
 2025-01-01 01:12:01,584 - __main__ - INFO - Token value: 
 2025-01-01 01:12:01,712 - __main__ - INFO - Weather temp in Dublin: 7.62
 2025-01-01 01:12:01,712 - __main__ - INFO - Weather description in Dublin: light rain
+2025-02-01 01:08:36,280 - __main__ - INFO - Token value: 
+2025-02-01 01:08:36,411 - __main__ - INFO - Weather temp in Dublin: 2.23
+2025-02-01 01:08:36,411 - __main__ - INFO - Weather description in Dublin: overcast clouds
